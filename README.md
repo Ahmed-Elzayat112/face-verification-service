@@ -45,8 +45,8 @@ Follow these instructions to get the project up and running on your local machin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Ahmed_Elzayat122/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Ahmed-Elzayat112/face-verification-service.git
+cd face-verification-service
 ```
 
 **(Remember to replace the URL with your actual Git repository link)**
