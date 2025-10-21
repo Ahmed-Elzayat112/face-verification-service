@@ -1,9 +1,3 @@
-Of course. A great README is a critical part of the project. It should be clear, concise, and make it incredibly easy for the evaluator to run and test your work.
-
-Here is a comprehensive, professional `README.md` file tailored specifically to the project we've built. You can copy and paste this directly into a `README.md` file in your project's root directory.
-
----
-
 # AI Face-Verification Microservice
 
 This project is a standalone Node.js microservice for real-time face verification. It exposes a simple REST API to first enroll a user by generating a facial embedding from a photo, and then verify their identity by comparing a new photo against the stored embedding.
